@@ -1,0 +1,35 @@
+Column Header,Description,Data Values with Valid Years if Applicable
+Crash_ID,Crash ID – System-generated unique identifying number for a crash,
+Unit_Nbr,Unit number entered on crash report for a unit involved in the crash,
+Prsn_Nbr,Person number captured on the crash report,
+Prsn_Type_ID,Person Type,PRSN_TYPE_LKP
+Prsn_Occpnt_Pos_ID,"The physical location of an occupant in, on, or outside of the motor vehicle prior to the First Harmful Event or loss of control",OCCPNT_POS_LKP
+Prsn_Injry_Sev_ID,Severity of injury to the occupant,INJRY_SEV_LKP
+Prsn_Age,Age of person involved in the crash,
+Prsn_Ethnicity_ID,Ethnicity of person involved in the crash,DRVR_ETHNCTY_LKP
+Prsn_Gndr_ID,Gender of person involved in the crash,GNDR_LKP
+Prsn_Ejct_ID,The extent to which the person's body was expelled from the vehicle during any part of the crash,EJCT_LKP
+Prsn_Rest_ID,The type of restraint used by each occupant,REST_LKP
+Prsn_Airbag_ID,Indicates whether a person's airbag deployed during the crash and in what manner,AIRBAG_LKP
+Prsn_Helmet_ID,Indicates if a helmet was worn at the time of the crash,HELMET_LKP
+Crash_ID,Crash ID – System-generated unique identifying number for a crash,
+Crash_Date,Crash Date - Date on which crash occurred,
+Crash_Time,Crash Time - Time crash occurred,
+Rpt_Rdwy_Sys_ID,Roadway System (road on which crash occurred),RWY_SYS_LKP
+Rpt_Road_Part_ID,Roadway Part (road on which crash occurred),ROAD_PART_LKP
+Toll_Road_Fl,Toll Road/Toll Lane,YES_NO_CHOICE_LKP
+Crash_Speed_Limit,Speed Limit,
+Road_Constr_Zone_Fl,"Construction Zone - Indicates whether the crash occurred in or was related to a construction, maintenance, or utility work zone, regardless of whether or not workers were actually present at the time of the crash",YES_NO_CHOICE_LKP
+Road_Constr_Zone_Wrkr_Fl,Workers Present - Indicates whether workers were present in the road construction zone at the time of the crash,YES_NO_CHOICE_LKP
+At_Intrsct_Fl,At Intersection - Indicates if the crash occurred at an intersection.,YES_NO_CHOICE_LKP
+Wthr_Cond_ID,Weather Condition - The prevailing atmospheric condition reported by the officer at the time of the crash,WTHR_COND_LKP
+Light_Cond_ID,Light Condition - The type and level of light that existed at the time of the crash,LIGHT_COND_LKP
+Road_Algn_ID,Roadway Alignment - The geometric characteristics of the roadway at the crash site,ROAD_ALGN_LKP
+Surf_Cond_ID,"Surface Condition - The surface condition (wet, dry, etc) present at the time and place of the crash",SURF_COND_LKP
+Traffic_Cntl_ID,Traffic Control - Type of traffic control at the scene of the crash,TRAFFIC_CNTL_LKP
+Latitude,Latitude map coordinate of the crash,
+Longitude,Longitude map coordinate of the crash,
+Day_of_Week,Day of Week - The day of the week that the crash occurred,
+Crash_ID,Crash ID – System-generated unique identifying number for a crash,
+Unit_Nbr,Unit number entered on crash report for a unit involved in the crash,
+Unit_Desc_ID,Unit Description  - Describes the type of unit,VEH_UNIT_DESC_LKP
